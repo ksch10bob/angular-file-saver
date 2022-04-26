@@ -1,5 +1,5 @@
 {
-  "name": "angular-file-saver-dt",
+  "name": "angular-file-saver",
   "version": "1.0.0",
   "description": "An AngularJS service that implements the HTML5 W3C saveAs() in browsers that do not natively support it",
   "repository": {
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ksch10bob/angular-file-saver",
   "dependencies": {
     "Blob.js": "git+https://github.com/alferov/Blob.js",
-    "file-saver-dt": "1.0.0"
+    "file-saver": "1.0.0"
   },
   "devDependencies": {
     "angular": "^1.4.5",
