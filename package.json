@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ksch10bob/angular-file-saver",
   "dependencies": {
     "Blob.js": "git+https://github.com/alferov/Blob.js",
-    "file-saver": "1.0.0"
+    "file-saver": "https://github.com/ksch10bob/FileSaver.js.git#1.0.0"
   },
   "devDependencies": {
     "angular": "^1.4.5",
